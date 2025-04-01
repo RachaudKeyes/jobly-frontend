@@ -1,0 +1,18 @@
+.Navigation {
+  background-color: white;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.125);
+}
+  
+.nav-link.active {
+  font-weight: bold;
+  color: black;
+}
+
+.nav-item {
+  border-left: 0.1rem solid rgb(133, 182, 255);
+  padding-left: 2rem;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
